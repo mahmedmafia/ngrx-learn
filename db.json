@@ -1,0 +1,18 @@
+{
+  "customers": [
+    {
+      "name": "John Doe",
+      "phone": "01121512",
+      "address": "123 Sun Street",
+      "membership": "platinnum",
+      "id": 1
+    },
+    {
+      "name": "Hello Man",
+      "phone": "haas adsa",
+      "membership": "Platinum",
+      "address": "das",
+      "id": 2
+    }
+  ]
+}
