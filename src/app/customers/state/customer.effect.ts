@@ -74,7 +74,7 @@ export class CustomerEffect {
                             id: updateCustomer.id,
                             changes: updateCustomer
                         })
-                        
+
                     ),
                     catchError(err => of(new customerActions.UpdateCustomerFail(err)))
                 )
